@@ -1,0 +1,25 @@
+fieldset{
+    margin-top: 210px;
+    margin-bottom: 100px;
+    margin-left: 550px;
+    margin-right: 550px;
+   
+    color:  black;
+    border-radius: 50px;
+    opacity: 0.75;
+}
+button{
+    margin-left: 25px;
+    margin-right: 25px;
+    padding: 5px;
+    cursor: pointer;
+    background-color:beige;
+    color: blueviolet;
+    border-radius: 70px;
+}
+body{
+    background: url(https://getmyuni.azureedge.net/college-images-test/sri-krishna-institute-of-technology-skit-bangalore/0e991eb35d03409b818ac684268d7d2a.jpeg);
+    background-size: cover;
+}
+
+
